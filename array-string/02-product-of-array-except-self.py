@@ -1,5 +1,5 @@
-difficulty: medium
-topics: Array, prefix sum
+# difficulty: medium
+# topics: Array, prefix sum
 
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
