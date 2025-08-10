@@ -20,6 +20,5 @@ class Solution:
         if count > 1:
             s += f"{count}"
         chars[:] = list(s)
-        print(chars)
         return len(chars)
         
