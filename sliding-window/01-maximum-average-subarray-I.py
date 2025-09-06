@@ -1,5 +1,7 @@
 # difficulty : easy
 
+# time taken : 5:00
+
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
         l = 0
